@@ -17,7 +17,7 @@ Runs unit tests
 
 ### npm run build
 
-Builds stuff
+Builds the project. Right now output is in build/ folder, but this should probably be renambed to dist/
 
 ### npm run clean
 
