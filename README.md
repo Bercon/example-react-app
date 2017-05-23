@@ -1,5 +1,10 @@
 ## Example javascript project
 
+## First steps
+
+1. Install Node + NPM with your favorite package manager.
+2. Install project dependencies with: __npm install__
+
 ## Commands
 
 ### npm start
